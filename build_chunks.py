@@ -67,6 +67,7 @@ BOILERPLATE_LINE_PATTERNS = [
     r"^[\W_]+$",                                 # separator-only lines (middots, dashes)
     r"^more replies?$",
     r"^\[(deleted|removed)\]$",                  # deleted/removed comment markers
+    r"^archived post\b.*$",                      # "Archived post. New comments cannot..."
     r"^OP$",                                     # original-poster tag
     r"^u/\S+\s*(avatar)?$",                      # "u/Name" / "u/Name avatar"
     r".*\bavatar$",                              # "Name avatar" lines
