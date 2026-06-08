@@ -1,0 +1,694 @@
+Chapel Hill or UNCC For Computer Science? Please Help
+Academic
+As the title suggests I am struggling to determine whether or not I should go to UNC Chapel Hill or UNCC. I have been dead set on chapel hill for the longest time but I recently took a tour to UNCC and wow I was impressed and feel myself shifting towards it. I even got to explore around the college of computing (I am pursuing computer science, particularly cybersecurity) and I pretty much fell in love with the program there. From what I see online, Chapel Hill’s program is “better” but I feel myself gravitating towards Charlotte’s program. I’m also concerned about the large amount of commuting on campus, and when I was there I noticed a lack of people. So I was wondering how that affects the campus life? Anybody got any wisdom that would help?
+
+Edit: I got into the UNCC honors college, if that helps
+
+Edit 2: I ended up going for Chapel Hill. I did more research into their program and it was beyond amazing!
+
+
+Upvote
+29
+
+Downvote
+
+49
+Go to comments
+
+
+Share
+u/OpenAI avatar
+OpenAI
+•
+Promoted
+
+Don’t let merge-related issues slow you down. Keep PRs moving with Codex. Try Codex for Free.
+Sign Up
+chatgpt.com
+Clickable image which will reveal the video player: Don’t let merge-related issues slow you down. Keep PRs moving with Codex. Try Codex for Free.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/bruisedKittenMit avatar
+bruisedKittenMit
+•
+3mo ago
+I went to UNCC for CS. I work at a major bank with other UNCC grads and many Chapel Hill grads~ so, in terms of real life, there isn’t much of a difference. Personal opinion- Chapel Hill is very well known, so the prestige is there. One thing I appreciated about UNCC is that it has the distinction of CCI as well as the “concentrations”. What I had heard about the UNC Chapel Hill program is that many people struggled to get credits for higher level classes due to how limited the seats/times were. This may not be the case now (class of 2023) As far as campus life goes, I believe UNCC is more of a commuter school; I participated in a handful of student organizations but I never lived on campus or in student housing.
+
+Another thing that may help you make a decision is career prospects. Charlotte has a lot of tech and banking opportunities. Raleigh/Durham area is more of health and research focus (with some tech companies scattered around)
+
+Either school will get you what you need- I also think being in North Carolina is already a plus for this degree, with many companies setting sites on building offices or headquarters.
+
+
+
+Upvote
+34
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+UnoriginalName432
+OP
+•
+3mo ago
+Thank you so much! I got into the honors college at UNCC, so the priority registration that comes with is a huge part of my consideration because I don’t think I’ll be lucky enough to get all the classes I want.
+
+
+
+Upvote
+8
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/bruisedKittenMit avatar
+bruisedKittenMit
+•
+3mo ago
+I would like to also mention that back when I was attending, I was on the board of ACM-W; we would frequently host interview prep/practices, go to hackathons (funny enough, Pearl Hacks at Chapel Hill 🤣), tour company offices, and host “Tech Talks”, being active in a student org will help get you plenty of exposure and make connections. Many companies are keen on hiring talent from UNCC and will donate money to these student organizations. I can only assume that this also happens at Chapel Hill :) so maybe look into the student organizations and how active they are. I also had good experiences with the professors- there are a handful that will recommend you for internships/full time positions if you do well in class. Looking back on my personal experience, now I want to be bias, I think you should choose UNCC haha :)
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Dylan-the-villan
+•
+3mo ago
+Former Student / Alumni
+Still picking computer science? Have you discussed that with anyone? Are you sure?
+
+
+
+Upvote
+13
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+UnoriginalName432
+OP
+•
+3mo ago
+That’s why I’m pursuing cybersecurity. I think there’s growth and potential in it compared to the rest of the industry. Is this copium? Maybe but I don’t have anything I wanna do
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/accidental_reader avatar
+accidental_reader
+•
+3mo ago
+This is copium. I go to career fairs to represent my job often. We are tech adjacent and we get completely mobbed by people asking for software engineers and data science roles. Computer science majors even fly in from out of state to go to job fairs. I think it was considered a “get rich quick” major for a long time which flooded the market. I would definitely explore other interests.
+
+
+Upvote
+8
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Fit-Fisherman-2706
+•
+3mo ago
+Not at ALL. alum here, did undergrad and my masters in cybersecurity. I 11/10 recommend pursuing cybersecurity but shift focus to AI based cybersecurity: attacks, threats, vulnerabilities. Definitely not a get rich quick given the economic conditions but still possible. With persistence/grit, you can get anything done.
+
+I also recommend getting into pen testing but with AI.. that's the future, at least the next 10-15 years. Learn this and you will have a job or at least internship while in school. DM me if you have any questions.
+
+and also, biased or not, even logically speaking, UNCC > state/unc for CS/cyber
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+obviouslypretty
+•
+3mo ago
+Lots of cybersecurity opportunities in Charlotte, just something to think about. I got a homie working cybersecurity for one of those big banks in CLT
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+tangoManJones
+•
+3mo ago
+A lot like another comment on this post. I went to UNCC plus I work at a major bank here in Charlotte and also work with a lot of grads from UNC. If you genuinely are interested in cs Charlotte has a great CS program with pretty good opportunity for a career given its location.
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+teefies16
+•
+3mo ago
+This is my completely anecdotal experience that I am sharing. I am a uncc CS 2025 grad and work with a chapel hill CS 2025 grad. We discussed salaries and I know I started off higher than him and still make more than him, we worked together as interns summer 2024 and I was offered an extended internship while I was still in college, which resulted in a full time offer, and he was not offered any of this. He's back with us now because he applied after he graduated. He is super bright so it's not at all that he wasn't good enough or anything like that. I honestly don't know why I was chosen over any of the interns in my group that summer LOL.
+
+Both my coworkers went to prestigious schools, Georgia Tech and Chapel Hill, and my boss did as well, and my boss has pointed out how she is glad she picked people who went to such great schools because they're so competent. It makes me feel awkward because she's shat on uncc but always includes me in like "and you're super smart too of course!" It's weird and idk how to feel about it, I still think about whether or not it was a mistake to choose uncc, but then again I am currently at the same exact place as my coworkers so who knows
+
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+niners0101
+•
+3mo ago
+Seems like a boss issue. Weird to shit on an R1 school that’s top 75 in public universities in the nation with a stout CS program. Sure we’re not Georgia Tech but it’s still a very strong program they normally is pretty well respected
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+teefies16
+•
+3mo ago
+•
+Edited 3mo ago
+I completely agree with you! I always found it really rude. I went to a game with my job once too and someones +1 did the same thing after I mentioned having gone there, the perception of the school amongst older people doesn't seem to be good
+
+
+Upvote
+4
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+Fit-Fisherman-2706
+•
+3mo ago
+sounds like boss is insecure, not a mistake to attend a school that... well has a dedicated school for computer science rather than shoving it in engineering schools/departments. Given how rapidly AI is progressing, it is easier for a school with a dedicated CS program/school to integrate these new concepts rather than adding them as a class in the eng dept.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+sess5198
+•
+3mo ago
+NC State, ideally. Best engineering programs in the state by far. If it isn’t too late to apply there, it is definitely worth looking into. I went there for engineering and it really was a fantastic program through and through.
+
+To your question, though: I’d definitely put UNCC above chapel hill for any type of engineering. Iirc, Chapel hill only has biomedical engineering (which is actually partnered with NC State and is part of their program, too, so even that one really isn’t directly located within the CH’s programs) and computer science in terms of the engineering degrees they offer. While it is a well-known school, the fact that they don’t really focus on engineering would give me pause. UNCC, on the other hand, has plenty of engineering options and is still a great school. So based on those factors, I’d say UNCC.
+
+Then there’s also the possibility that you’ll get in a computer science program and realize you like some other type of engineering discipline better. In that case, UNCC offers tons of other options that you can easily jump to; Chapel hill does not. Just something else to consider.
+
+Good luck to ya and get ready for the rubber to hit the road, my friend!
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Spectrum_Official avatar
+u/Spectrum_Official
+•
+Promoted
+
+Spectrum One has the fastest, most reliable Internet. So you can get online and get on with your life.
+Learn More
+spectrum.com
+Clickable image which will reveal the video player: Spectrum One has the fastest, most reliable Internet. So you can get online and get on with your life.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+u/derhornspieler avatar
+derhornspieler
+•
+3mo ago
+•
+Edited 3mo ago
+UNCC hands down. CCI has an awesome program and opportunities within the technology sector from alumni. Downside is you do compete with international students heavily but I think they have capped international admittance a few years ago when this was exposed in their graduate program.
+
+Edit: To give a bit more perspective, the program is a true computer science program with included concentrations. You can also explore their 4+1 program where your senior year you take graduate level courses which count credits towards both degrees. (Undergraduate + Graduate) The concentrations they offer are numerous as well compared to most NC schools.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+ChiefHiawah
+•
+3mo ago
+Chapel Hill is a great brand name but not nearly as great or famous as alums think it is once u get outside of NC. 
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/BigInevitable8601 avatar
+BigInevitable8601
+•
+3mo ago
+I’m sure UNCC’s national brand is superior
+
+
+
+Upvote
+0
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+ChiefHiawah
+•
+3mo ago
+Never said it was.  Sorry the truth about Chapel Hill hurts
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/gertrudeblythe avatar
+gertrudeblythe
+•
+3mo ago
+Look at what schools have partnerships with as far as internships and other kinds of pipelines to employment. That’s the only thing that matters in all honesty between the two.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+AmmoniumOxalate
+•
+3mo ago
+•
+Edited 3mo ago
+I'm at UNC, but not a CS student. Did you get into the major or will you have to apply? From what I know (I've only taken Comp110 so I'm not the best judge), the UNC program is a lot more theory-based than practical. It's also a PAIN to get into some of these classes here and they're always in a required sequence. However, the UNC name carries a lot more weight than you can imagine. Honestly I don't think you'll go wrong whether you choose UNC or UNCC in this case, because Charlotte's program is still very strong.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+AmmoniumOxalate
+•
+3mo ago
+Also Chapel Hill specific, the town is (in my opinion) boring in comparison to Charlotte. Extremely hard to park anywhere. Extremely pricey housing, and even if you have roommates it's somehow more expensive than most locations in Charlotte. I'd really consider these factors in your choice, because these issues definitely have pushed me to start a transfer application to UNCC in the past.
+
+
+
+Upvote
+5
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+UnoriginalName432
+OP
+•
+3mo ago
+Interesting, I hadn’t considered that!
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+UnoriginalName432
+OP
+•
+3mo ago
+I’m an incoming freshman and so I wouldn’t know if i got into the major until spring 2027 because of how the application works. Class registration is definitely a big consideration of mine
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+chunkypenguion1991
+•
+3mo ago
+Thats probably working in your favor. I have a CS degree from UNCC. Now is not the best time to start a CS degree. In a 12-18 months one of two things will happen. 1. AI models will not improve beyond the current state(in terms of coding) 2. One of the AI labs will drastically improve the coding ability of it's model. If 1 companies will be forced to hire SWEs for the foreseeable future, if 2 software engineering won't be a job anymore.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+AmmoniumOxalate
+•
+3mo ago
+I think the lower level comp classes hold seats for freshmen, but it's still incredibly difficult to get in because so many people are taking them in preparation for applying for the major. You mentioned Honors college at UNCC, did you get into Honors Carolina? That will be extremely helpful here. I transferred to UNC from Community College (so junior standing) and I only got into Comp110 because it was a late added section and it got filled incredibly fast (I was 20 on the waitlist). But honestly without the guaranteed major I'd be leaning toward UNCC, safer and still an amazing school for CS. Or explore other majors at UNC such as Data Science (also requires an application) or Stats. It's just rough out here 😭
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Microsoft_Azure avatar
+u/Microsoft_Azure
+•
+Promoted
+
+TFW your app is about to launch. But you know security is built in when deployed on Azure.
+Sign Up
+azure.microsoft.com
+Thumbnail image: TFW your app is about to launch. But you know security is built in when deployed on Azure.
+u/TomassoLP avatar
+TomassoLP
+•
+3mo ago
+moderator emeritus
+Can't speak to Chapel Hill but Charlotte treated me well and made it extremely easy to get employment following graduation. Plus you have options like the early entry MS program and CyberCorps SFS which you should look into.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+BranSul
+•
+3mo ago
+Computer Science and Cybersecurity are very different as majors, you should really explore that carefully.
+
+That said, just in terms of the school alone, there's a case to be made for NCSU over UNC for CS ... I'm not so sure it applies with UNCC ... but if your honors college admission comes with significant financial aid at UNCC that you won't be getting at UNC, I would consider that probably above all. If you can somehow make it out of UNCC without much in the way of student loans, but UNC will have you taking out a bunch of student loans, I would probably pick UNCC in that circumstance ... for CS
+
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/TomassoLP avatar
+TomassoLP
+•
+3mo ago
+moderator emeritus
+Cybersecurity is a concentration within the Computer Science major, they are not different majors, at least at Charlotte.
+
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+BranSul
+•
+3mo ago
+OK, yes, that is fair.
+
+I should have perhaps used the word "disciplines" rather than "majors" in that case ... I meant in terms of possible career pathways/expectations
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Honest-Raspberry-748 avatar
+Honest-Raspberry-748
+•
+3mo ago
+who's gonna tell him?
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/Far-Journalist-3370 avatar
+Far-Journalist-3370
+•
+3mo ago
+Go to chapel hill and never look back
+
+
+Upvote
+0
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+
+irony21
+•
+3mo ago
+Due-You-8140
+•
+3mo ago
+Did my cs from uncc, wouldn’t regret one bit. Although i have to say there are some bad professors for sure. And professors who you’ll have hard time understanding because of language barrier (chinese) and in the end job search is independent of the coursework. That is, your interview prep is different from class coursework. I went on to work for FAANG big tech in the valley rn. I also love that with uncc you get a full campus experience and city life. Chapel hill idk didn’t like the campus feel that much. Uncc campus is amazing and so vibrant with college life and activities to do 
+
+
+
+Upvote
+0
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+UnoriginalName432
+OP
+•
+3mo ago
+I’ve heard about the bad professors. I’m hoping that the honors college priority registration would be able to offset that.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+

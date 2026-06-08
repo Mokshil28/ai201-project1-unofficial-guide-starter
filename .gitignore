@@ -16,5 +16,8 @@ env/
 chroma_db/
 chroma/
 
+# Intermediate inspection output (regenerable from build_chunks.py)
+raw_documents.json
+
 # macOS
 .DS_Store
