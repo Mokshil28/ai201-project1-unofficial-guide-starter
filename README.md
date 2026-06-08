@@ -340,8 +340,7 @@ questions the documents don't cover.
 
 **Instance 1 — Ingestion & chunking (`build_chunks.py`)**
 
-- *What I gave the AI:* My planning.md Documents section (10 Reddit `.txt`
-  files), Chunking Strategy (500/100), and the architecture diagram.
+- *What I gave the AI:* The architecture diagram.
 - *What it produced:* A load → clean → chunk script writing `chunks.json`.
 - *What I changed or overrode:* I inspected real chunks and iteratively directed
   the cleaning to strip artifacts the first version missed — usernames,
