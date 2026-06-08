@@ -106,36 +106,36 @@ This knowledge is valuable because official university websites provide policies
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
-Documents (Reddit Threads)
+    Documents (Reddit Threads)
+        |
+        V
+    Document Ingestion
+    (Python)
         |
         v
-Document Ingestion
-(Python)
+    Text Cleaning
         |
         v
-Text Cleaning
+    Chunking
+    (500 chars, 100 overlap)
         |
         v
-Chunking
-(500 chars, 100 overlap)
+    Embeddings
+    (all-MiniLM-L6-v2)
         |
         v
-Embeddings
-(all-MiniLM-L6-v2)
+    ChromaDB
+    (Vector Store)
         |
         v
-ChromaDB
-(Vector Store)
+    Retrieval
+    (Top 5 Chunks)
         |
         v
-Retrieval
-(Top 5 Chunks)
+    Groq Llama 3.3
         |
         v
-Groq Llama 3.3
-        |
-        v
-Answer + Source Citations
+    Answer + Source Citations
 ---
 
 ## AI Tool Plan
